@@ -1,2 +1,2 @@
 # StartUp
-first live site
+ https://ripred7.github.io/StartUp/
